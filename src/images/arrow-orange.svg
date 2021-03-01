@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="14px" viewBox="0 0 16 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Path</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Button" transform="translate(-157.000000, -17.000000)" fill="#FF1E00" fill-rule="nonzero">
+            <g id="Arrow" transform="translate(157.000000, 17.000000)">
+                <polygon id="Path" points="11.8665141 0.499956388 15.6196398 6.99980481 11.8665272 13.5000211 10.1345007 12.4999789 12.73 7.99995639 0 8 0 6 12.731 5.99995639 10.1345007 1.50004361"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Health organization</title>
+    <g id="Health-organization" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-25">
+            <polygon id="Fill-24" points="0 100 100 100 100 0 0 0"></polygon>
+            <polygon id="Fill-1" fill="#E5E5E5" points="12 85 89 85 89 73 12 73"></polygon>
+            <polygon id="Fill-2" fill-opacity="0.1" fill="#231F20" points="89 85 24 85 12 73 89 73"></polygon>
+            <polygon id="Fill-4" fill="#999999" points="4 46 97 46 97 43 4 43"></polygon>
+            <polygon id="Fill-5" fill="#E5E5E5" points="7 73 94 73 94 46 7 46"></polygon>
+            <polygon id="Fill-6" fill="#2196F3" points="12 58 19 58 19 51 12 51"></polygon>
+            <polygon id="Fill-7" fill="#E5E5E5" points="38 85 62 85 62 73 38 73"></polygon>
+            <polygon id="Fill-8" fill="#EE2B24" points="41 85 59 85 59 73 41 73"></polygon>
+            <polygon id="Fill-9" fill="#2196F3" points="22 58 29 58 29 51 22 51"></polygon>
+            <polygon id="Fill-10" fill="#2196F3" points="32 58 39 58 39 51 32 51"></polygon>
+            <polygon id="Fill-11" fill="#2196F3" points="42 58 49 58 49 51 42 51"></polygon>
+            <polygon id="Fill-12" fill="#2196F3" points="52 58 59 58 59 51 52 51"></polygon>
+            <polygon id="Fill-13" fill="#2196F3" points="62 58 69 58 69 51 62 51"></polygon>
+            <polygon id="Fill-14" fill="#2196F3" points="72 58 79 58 79 51 72 51"></polygon>
+            <polygon id="Fill-15" fill="#2196F3" points="82 58 89 58 89 51 82 51"></polygon>
+            <polygon id="Fill-16" fill="#2196F3" points="12 68 19 68 19 61 12 61"></polygon>
+            <polygon id="Fill-17" fill="#2196F3" points="22 68 29 68 29 61 22 61"></polygon>
+            <polygon id="Fill-18" fill="#2196F3" points="32 68 39 68 39 61 32 61"></polygon>
+            <polygon id="Fill-19" fill="#2196F3" points="42 68 49 68 49 61 42 61"></polygon>
+            <polygon id="Fill-20" fill="#2196F3" points="52 68 59 68 59 61 52 61"></polygon>
+            <polygon id="Fill-21" fill="#2196F3" points="62 68 69 68 69 61 62 61"></polygon>
+            <polygon id="Fill-22" fill="#2196F3" points="72 68 79 68 79 61 72 61"></polygon>
+            <polygon id="Fill-23" fill="#2196F3" points="82 68 89 68 89 61 82 61"></polygon>
+        </g>
+    </g>
+</svg>
