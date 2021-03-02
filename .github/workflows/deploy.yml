@@ -1,0 +1,22 @@
+name: Deploy static files to AWS S3 Bucket
+ 
+on:
+  push:
+    tags: '*'
+ 
+jobs:
+  build:
+    name: Deploy static files
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+ 
+      - uses: jakejarvis/s3-sync-action@0.5.1
+        with:
+          args: --acl public-read --delete
+        env:
+          AWS_S3_BUCKET: 'cdx.io'
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          SOURCE_DIR: 'src'
